@@ -1,100 +1,114 @@
-PATH KEY PROPRIETARY LICENSE  
+PATH KEY INTELLECTUAL PROPERTY & PROPRIETARY LICENSE  
 Version 1.0 — Effective Date: October 6, 2025
 
-Copyright © 2025 My Path Key. All Rights Reserved.
+==================================================================
+Copyright © 2025 Anthony M. Lenk  
+All Rights Reserved.
+==================================================================
+
+The names **Path Key** and **My Path Key**, together with all related logos, trademarks, designs, software, documentation, and other creative or technical works (collectively referred to as the “Works”), are the exclusive property of **Anthony M. Lenk** (“Owner”).  
+The Works are protected by the United States Copyright Act (17 U.S.C. § 101 et seq.), international copyright treaties, and other applicable intellectual property laws.
+
+No part of the Works may be copied, reproduced, modified, distributed, transmitted, performed, displayed, published, sublicensed, or used to create derivative works, in whole or in part, without the prior written consent of the Owner.
 
 ==================================================================
 1. DEFINITIONS
 ==================================================================
 
-1.1 “Software” refers to all code, components, designs, data files, assets, APIs, documentation, and related materials owned or licensed by Path Key, whether in source or compiled form.
+1.1 “Software” refers to all Path Key and My Path Key source code, compiled binaries, libraries, data files, interfaces, APIs, designs, documentation, and other related materials.  
 
-1.2 “Owner” refers to Anthony M. Lenk, the sole proprietor of the Path Key brand, product line, and intellectual property.
+1.2 “Owner” refers to **Anthony M. Lenk**, the sole proprietor and rights holder of Path Key and My Path Key.  
 
-1.3 “Author” refers to Nick Chiaravalle, the developer and original author of the Path Key Engine, which is licensed exclusively to Path Key and its Owner.
+1.3 “Author” refers to **Nick Chiaravalle**, the creator and developer of the **Path Key Engine**, which is licensed exclusively to Path Key for integration and operation within the Path Key ecosystem.  
 
-1.4 “Licensee” refers to any individual or entity granted explicit written permission by the Owner to use, access, or integrate the Software.
+1.4 “Licensee” means any individual or entity granted written permission by the Owner to access, use, or integrate the Software.  
 
-1.5 “Use” means to access, install, execute, copy, or otherwise interact with the Software in any manner.
+1.5 “Use” means to install, execute, copy, display, access, or otherwise interact with the Software or Works in any capacity.  
 
 ==================================================================
 2. OWNERSHIP AND COPYRIGHT
 ==================================================================
 
-2.1 The Software is the proprietary and confidential property of the Owner.  
-It is protected under United States copyright law, international treaties, and other applicable intellectual property statutes.
+2.1 All rights, title, and interest in and to the Works and Software, including all modifications, enhancements, and derivative materials, are and shall remain the sole property of the Owner.  
 
-2.2 All rights, title, and interest in and to the Software, including all copies, enhancements, modifications, derivative works, and related documentation, are retained by the Owner, except as expressly licensed.
+2.2 The **Path Key Engine** was authored and developed by Nick Chiaravalle and is licensed solely and exclusively to Path Key (Anthony M. Lenk).  
+The Author retains ownership of the Engine’s underlying intellectual property, except as expressly licensed to the Owner for commercial and operational use within the Path Key ecosystem.  
 
-2.3 The Path Key Engine was authored and developed by Nick Chiaravalle and is licensed solely and exclusively to Path Key (Anthony M. Lenk) for use within the Path Key ecosystem.  
-The Author retains all intellectual property rights in the Path Key Engine except to the extent expressly granted to Path Key for integration and commercial use.
-
-==================================================================
-3. GRANT OF LICENSE
-==================================================================
-
-3.1 No rights or licenses are granted to the public under this License.  
-Use, reproduction, or modification of the Software without prior written consent from the Owner is strictly prohibited.
-
-3.2 Any authorized Licensee shall be subject to the terms of a separate written license or agreement issued by the Owner.  
-Unless explicitly stated in such agreement, no usage rights are implied or transferred.
-
-3.3 The Software may not be sublicensed, resold, redistributed, or hosted as a service without express written authorization from the Owner.
+2.3 All software, designs, media, and digital assets distributed under the Path Key or My Path Key names are covered under this License and are not open source.  
+No rights or permissions are granted to the public under this License except as expressly authorized in writing by the Owner.  
 
 ==================================================================
-4. RESTRICTIONS
+3. TRADEMARK NOTICE
 ==================================================================
 
-Without limiting the generality of Section 3, the following actions are strictly prohibited unless expressly authorized in writing by the Owner:
+**Path Key**, **My Path Key**, and the associated key logo are trademarks and service marks of **Anthony M. Lenk**.  
+All other product names and brand marks mentioned are the property of their respective owners.
 
-(a) Reverse engineering, decompiling, or disassembling the Software or any portion thereof;  
-(b) Copying, modifying, or creating derivative works of the Software;  
-(c) Removing, obscuring, or altering any copyright, trademark, or proprietary notices;  
-(d) Distributing, transferring, or otherwise making the Software available to third parties;  
-(e) Using the Software for any unlawful or competitive purpose;  
-(f) Incorporating the Software or any portion of it into an open-source or public project.
+Use of the Path Key or My Path Key trademarks, service marks, or visual branding without explicit written permission is strictly prohibited and constitutes infringement under applicable law.
 
 ==================================================================
-5. CONFIDENTIALITY
+4. GRANT OF LICENSE
 ==================================================================
 
-The Software, its structure, logic, and algorithms constitute valuable trade secrets of the Owner.  
-Licensees and authorized users shall maintain the confidentiality of all non-public information obtained through use or access to the Software.
+4.1 No license or right is granted to any person or entity to use the Software or Works except as expressly authorized in a separate written agreement signed by the Owner.  
+
+4.2 Any permitted use shall be subject to the terms, scope, and duration defined in such written agreement.  
+Unless explicitly stated otherwise, all rights not granted remain reserved by the Owner and/or Author.  
+
+4.3 The Software and Works may not be sublicensed, redistributed, rebranded, or made available as part of any service or public offering without the express prior written consent of the Owner.
 
 ==================================================================
-6. TERMINATION
+5. RESTRICTIONS
 ==================================================================
 
-6.1 This License is effective until terminated.  
-Any unauthorized use, breach of confidentiality, or violation of these terms will result in automatic termination of the License and all associated rights.
+Unless expressly authorized in writing by the Owner, you may not:
 
-6.2 Upon termination, the Licensee shall immediately cease all use of the Software and destroy all copies in their possession.
-
-==================================================================
-7. DISCLAIMER OF WARRANTIES
-==================================================================
-
-THE SOFTWARE IS PROVIDED “AS IS” AND WITHOUT WARRANTY OF ANY KIND.  
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE OWNER AND AUTHOR DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+- Reverse engineer, decompile, disassemble, or derive the source code of the Software;  
+- Modify, adapt, translate, or create derivative works based on the Works;  
+- Remove, obscure, or alter any copyright, trademark, or proprietary notice;  
+- Distribute, transmit, or otherwise make the Works publicly available;  
+- Use the Works for competitive analysis or to develop a similar or derivative product;  
+- Incorporate the Works into any open-source or public project.
 
 ==================================================================
-8. LIMITATION OF LIABILITY
+6. CONFIDENTIALITY
 ==================================================================
 
-IN NO EVENT SHALL THE OWNER, AUTHOR, OR ANY AFFILIATED PARTY BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, LOSS OF PROFITS, DATA, OR BUSINESS INTERRUPTION) ARISING FROM THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+The Works and Software contain confidential and proprietary information belonging to the Owner and/or Author.  
+Licensees and authorized users must treat all such information as confidential and may not disclose or distribute it to any third party without written consent.
 
 ==================================================================
-9. GOVERNING LAW
+7. TERMINATION
 ==================================================================
 
-This License shall be governed by and construed in accordance with the laws of the State of New York, United States of America, without regard to conflict of law principles.  
-Any disputes arising under or in connection with this License shall be subject to the exclusive jurisdiction of the state and federal courts located in Erie County, New York.
+7.1 This License and any granted rights shall immediately terminate upon breach of its terms or upon written notice by the Owner.  
+
+7.2 Upon termination, all rights to use, distribute, or possess the Software and Works shall cease, and the Licensee must destroy all copies, partial or complete, in their possession.  
 
 ==================================================================
-10. CONTACT INFORMATION
+8. DISCLAIMER OF WARRANTIES
 ==================================================================
 
-For all licensing, partnership, or authorization inquiries, contact:
+THE WORKS AND SOFTWARE ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.  
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE OWNER AND AUTHOR DISCLAIM ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.  
+NO GUARANTEE IS MADE THAT THE SOFTWARE OR WORKS WILL BE ERROR-FREE OR SUITABLE FOR ANY PARTICULAR APPLICATION.
+
+==================================================================
+9. LIMITATION OF LIABILITY
+==================================================================
+
+IN NO EVENT SHALL THE OWNER, AUTHOR, OR ANY AFFILIATED PARTY BE LIABLE FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY, OR SPECIAL DAMAGES (INCLUDING, WITHOUT LIMITATION, LOSS OF PROFITS, DATA, BUSINESS, OR GOODWILL) ARISING FROM THE USE OR INABILITY TO USE THE WORKS OR SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  
+
+==================================================================
+10. GOVERNING LAW
+==================================================================
+
+This License shall be governed by and construed in accordance with the laws of the **State of New York, United States of America**, without regard to conflict of law principles.  
+Any legal disputes shall be submitted exclusively to the state or federal courts located in **Erie County, New York**.
+
+==================================================================
+11. CONTACT INFORMATION
+==================================================================
 
 **Owner (Path Key):**  
 Anthony M. Lenk  
@@ -103,6 +117,8 @@ Email: nfboxer2010@gmail.com
 **Author (Path Key Engine):**  
 Nick Chiaravalle  
 Email: chirv@oxy2k.org
+
+Official Website: [https://mypathkey.com](https://mypathkey.com)
 
 ==================================================================
 END OF LICENSE
